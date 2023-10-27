@@ -37,7 +37,7 @@ import {
   useLocation,
   useSearchParams,
 } from "react-router-dom";
-import { getSearchProducts } from "../../Redux/Favorite/Search/action";
+import { getSearchProducts } from "../../Redux/Search/action";
 import { TbArrowsDownUp } from "react-icons/tb";
 import Pagination from "../../Components/Pagination";
 
